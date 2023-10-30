@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "react-parallax-tilt": "^1.7.166",
+    "react-particles": "^2.12.2",
+    "react-tsparticles": "^2.12.2",
+    "tachyons": "^4.12.0",
+    "tsparticles": "^2.12.0"
+  }
+}
